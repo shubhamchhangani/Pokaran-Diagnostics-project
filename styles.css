@@ -1,0 +1,17 @@
+.footer{
+    height: 2rem;
+    text-align: center;
+}
+
+.testimonials{
+    text-align: center;
+    font-size: larger;
+    font-weight: 500;
+}
+.card{
+    display: block;
+    text-align: center;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
